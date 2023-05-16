@@ -40,7 +40,7 @@
 		[
 			"wininet",
 			"oscrypto"
-		]
+		],
 	},
 	"enable_tests": false,
 	"files_to_ignore":
@@ -125,8 +125,8 @@
 			"files_to_include":
 			[
 				"__init__.py"
-			]
-		}
+			],
+		},
 	},
 	"proxy_password": "",
 	"proxy_username": "",
@@ -140,5 +140,9 @@
 	"unmanaged_packages_ignore":
 	[
 	],
-	"user_agent": "Package Control v%s"
+	"user_agent": "Package Control v%s",
+	"installed_packages":
+	[
+		"Package Control"
+	],
 }
